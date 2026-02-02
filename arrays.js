@@ -29,9 +29,9 @@ console.log("Opgave 3b", dogs)
 // console.log("Opgave 4b", catsArray.includes("Salem") ? "Salem" : undefined)
     
     const found = catsArray.find((element) => element == "Bagheera")
-    console.log(found)
+    console.log("Opgave 4a", found)
     const found2 = catsArray.find((element) => element == "Salem")
-    console.log(found2)
+    console.log("Opgave 4b", found2)
     // korter og bedre :)
     
 
